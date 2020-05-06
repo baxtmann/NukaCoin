@@ -5,6 +5,10 @@
 ## What is NUK? ##
 NUK is a cryptocurrency to make the world a better place.
 
+Our Website: https://nukaco.in/
+Our Discord: https://discord.gg/QnCG4up
+For Support, use or discord!
+
 ----
 ## Get it! ##
 
