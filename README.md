@@ -1,6 +1,6 @@
 ----
 # Welcome to NUK! #
-
+#CURRENTLY BEING REBUILT, DO NOT USE THIS VERSION!
 ----
 ## What is NUK? ##
 NUK is a cryptocurrency to make the world a better place.
