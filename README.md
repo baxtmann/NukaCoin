@@ -15,7 +15,7 @@ NukaCoin is going to be a legit cryptocurrency. Utilizing true distributed compu
 ## Get it! ##
 
   - *dependencies*:
-    - You will need JDK, but since oracle requires you to create a damn account, we have it hosted here: https:://therewillbealinkhereeventually.com DISCLAIMER: We do not claim to have any ownership rights to Java or any related technologies, and all rights go to Oracle/Java k thx
+    - You will need JDK, but since oracle requires you to create a damn account, we have it hosted here: http://edge.nukaco.in/ DISCLAIMER: We do not claim to have any ownership rights to Java or any related technologies, and all rights go to Oracle/Java k thx
     - If you are just trying to run the wallet, this is the only dep you will need you are welcome 
 
 ----
